@@ -12,6 +12,9 @@ So now what can you do now that you've got so much more SPACE? Here are some of 
 ![Image](./demo.png)
 
 # Installation Instructions
+## We're currently in the Google Web Store approval process which might take 1-3 weeks before it'll show up in the Chrome Store (for free obvs)! Till then, you can install directly from here!
+
+
 
 ### Step 1: Clone the repository to your computer or download the ZIP file
  - Click Code > Download .ZIP
